@@ -15,11 +15,9 @@ SECRET_KEY = 'django-insecure-dl5-m-*dqii8!^&3)7m!s@e7%#4oqab8q&zz4&tfps-ghseh^d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "bronson-unpeeled-stainably.ngrok-free.dev", "https://bronson-unpeeled-stainably.ngrok-free.dev"]
+ALLOWED_HOSTS = ["https://social-media-api-9rxw.onrender.com", "social-media-api-9rxw.onrender.com"]
 
-CSRF_TRUSTED_ORIGINS = [
-    "https://bronson-unpeeled-stainably.ngrok-free.dev",  "http://localhost", "http://127.0.0.1",
-]
+CSRF_TRUSTED_ORIGINS = ["https://social-media-api-9rxw.onrender.com"]
 
 
 # Application definition
