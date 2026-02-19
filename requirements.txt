@@ -1,0 +1,8 @@
+gunicorn
+psycopg2-binary
+django
+whitenoise
+djangorestframework
+django-cors-headers
+dr-spectacular
+django-filter
