@@ -13,7 +13,7 @@ load_dotenv()
 SECRET_KEY = 'django-insecure-dl5-m-*dqii8!^&3)7m!s@e7%#4oqab8q&zz4&tfps-ghseh^d'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["https://social-media-api-9rxw.onrender.com", "social-media-api-9rxw.onrender.com"]
 
