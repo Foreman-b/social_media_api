@@ -4,5 +4,5 @@ django
 whitenoise
 djangorestframework
 django-cors-headers
-dr-spectacular
+drf-spectacular
 django-filter
